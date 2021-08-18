@@ -1,0 +1,4 @@
+For the motor list program, there will be two forms. On startup, the add motor form will dislay, giving the user the ability to input the motor's ID, description, RPM, Voltage, and Status.
+The program will add these values to a collection. Then, the user can hit the display button.
+The display form will then appear with the motor information loaded in for each motor in the collection. 
+I will use Numeric updown controls and masked text boxes to make input validation easier for this program.

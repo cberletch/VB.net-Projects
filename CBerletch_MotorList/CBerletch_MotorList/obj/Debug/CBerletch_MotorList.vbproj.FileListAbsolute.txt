@@ -1,0 +1,13 @@
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\bin\Debug\CBerletch_MotorList.exe.config
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\bin\Debug\CBerletch_MotorList.exe
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\bin\Debug\CBerletch_MotorList.pdb
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\bin\Debug\CBerletch_MotorList.xml
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\obj\Debug\CBerletch_MotorList.vbprojAssemblyReference.cache
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\obj\Debug\CBerletch_MotorList.AddMotor.resources
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\obj\Debug\CBerletch_MotorList.Resources.resources
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\obj\Debug\CBerletch_MotorList.vbproj.GenerateResource.cache
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\obj\Debug\CBerletch_MotorList.vbproj.CoreCompileInputs.cache
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\obj\Debug\CBerletch_MotorList.exe
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\obj\Debug\CBerletch_MotorList.xml
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\obj\Debug\CBerletch_MotorList.pdb
+S:\Users\coleb\CIS 371\CBerletch_MotorList\CBerletch_MotorList\obj\Debug\CBerletch_MotorList.Display.resources
