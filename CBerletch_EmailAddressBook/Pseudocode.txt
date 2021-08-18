@@ -1,0 +1,6 @@
+For the email addressbook the form displays the user, email, phone and comments in a listbox. The listbox is not optimal for this, as can be seen in the program by the remove button not working. 
+A collection and a public class are created. The class holds the variables for input of the name, address, number, and comments.
+The add button calls up the add new name form. This allows the user to input string input for the variables. For simplicity, I allowed them all to be string variables. It is only a listbox, so i wasnt concerned with validating the phone number or the email.
+the edit button calls a specific record from the listbox and allows the user to edit any of the variables. 
+I could not get a working remove button. I tried multiple concatenations and procedures, but continued to get error messages. 
+The exit button closes the form.

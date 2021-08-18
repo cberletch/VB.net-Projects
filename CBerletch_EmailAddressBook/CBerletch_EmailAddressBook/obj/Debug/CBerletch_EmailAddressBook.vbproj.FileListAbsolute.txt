@@ -1,0 +1,14 @@
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\bin\Debug\CBerletch_EmailAddressBook.exe.config
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\bin\Debug\CBerletch_EmailAddressBook.exe
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\bin\Debug\CBerletch_EmailAddressBook.pdb
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\bin\Debug\CBerletch_EmailAddressBook.xml
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\obj\Debug\CBerletch_EmailAddressBook.vbprojAssemblyReference.cache
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\obj\Debug\CBerletch_EmailAddressBook.AddNewName.resources
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\obj\Debug\CBerletch_EmailAddressBook.Form1.resources
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\obj\Debug\CBerletch_EmailAddressBook.Resources.resources
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\obj\Debug\CBerletch_EmailAddressBook.vbproj.GenerateResource.cache
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\obj\Debug\CBerletch_EmailAddressBook.vbproj.CoreCompileInputs.cache
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\obj\Debug\CBerletch_EmailAddressBook.exe
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\obj\Debug\CBerletch_EmailAddressBook.xml
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\obj\Debug\CBerletch_EmailAddressBook.pdb
+S:\Users\coleb\CIS 371\CBerletch_EmailAddressBook\CBerletch_EmailAddressBook\obj\Debug\CBerletch_EmailAddressBook.EditForm.resources
