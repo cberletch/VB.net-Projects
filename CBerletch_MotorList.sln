@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CBerletch_MotorList", "CBerletch_MotorList\CBerletch_MotorList.vbproj", "{649C6B0A-2878-4B47-92CC-D7FA1B1EBBA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649C6B0A-2878-4B47-92CC-D7FA1B1EBBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649C6B0A-2878-4B47-92CC-D7FA1B1EBBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649C6B0A-2878-4B47-92CC-D7FA1B1EBBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649C6B0A-2878-4B47-92CC-D7FA1B1EBBA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9768F5FB-3369-4D66-BA10-4AA474AAB23E}
+	EndGlobalSection
+EndGlobal
